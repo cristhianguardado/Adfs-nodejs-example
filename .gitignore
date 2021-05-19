@@ -44,6 +44,6 @@ testem.log
 Thumbs.db
 
 # Env file
-*.env
+.env
 
 /data
